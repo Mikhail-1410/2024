@@ -1,0 +1,15 @@
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task1.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task2.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task3.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task4.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task5.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task6.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task7.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task8.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task9.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task10.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/task11.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/run_all.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/clean_all.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/edit_cache.dir
+/home/user/mipt/2024/term_1/wk_01/my_sol/build/CMakeFiles/rebuild_cache.dir
