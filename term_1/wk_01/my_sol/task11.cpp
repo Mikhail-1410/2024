@@ -4,7 +4,7 @@
 #include <fstream>
 
 int main() {
-    std::cout<<"Введите n: ";
+    std::cout<<"Введите n: "<<std::endl;
     int n;
     std::cin>>n;
     std::vector<double> harmonic(n);

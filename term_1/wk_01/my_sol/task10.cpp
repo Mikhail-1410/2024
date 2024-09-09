@@ -4,7 +4,6 @@
 #include <iomanip>
 
 int main() {
-    std::cout<<"Введите n: ";
     int n;
     std::cin>>n;
     std::vector<double> harmonic(n);

@@ -84,8 +84,11 @@ CMakeFiles/run_all: task11
 	./task5
 	./task6 30
 	./task7 10
+	echo Введите\ n:\ 
 	./task8 > output_task8.txt
+	echo Введите\ n:\ 
 	./task9 > output_task9.txt
+	echo Введите\ n:\ 
 	./task10 > output_task10.txt
 	./task11
 

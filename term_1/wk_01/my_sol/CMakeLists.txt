@@ -25,8 +25,11 @@ add_custom_target(run_all
     COMMAND task5
     COMMAND task6 30
     COMMAND task7 10
+    COMMAND echo "Введите n: "
     COMMAND task8 > output_task8.txt
+    COMMAND echo "Введите n: "
     COMMAND task9 > output_task9.txt
+    COMMAND echo "Введите n: "
     COMMAND task10 > output_task10.txt
     COMMAND task11
     DEPENDS task1 task2 task3 task4 task5 task6 task7 task8 task9 task10 task11

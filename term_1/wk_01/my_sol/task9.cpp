@@ -5,7 +5,6 @@
 #include <iomanip>
 
 int main() {
-    std::cout<<"Введите n: ";
     int n;
     std::cin>>n;
     std::array<double, 1000000> harmonic;

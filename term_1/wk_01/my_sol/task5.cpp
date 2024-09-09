@@ -3,7 +3,7 @@
 
 int main() {
     int n;
-    std::cout<<"Введите n: ";
+    std::cout<<"Введите n: "<<std::endl;
     std::cin>>n;
 
     std::ofstream file("output_task5.txt");

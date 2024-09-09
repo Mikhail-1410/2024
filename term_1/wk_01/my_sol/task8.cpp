@@ -4,7 +4,6 @@
 
 int main() {
     int n;
-    std::cout<<"Введите n: ";
     std::cin>>n;
     std::array<int, 1000000> fib;
     fib[0] = 1;
